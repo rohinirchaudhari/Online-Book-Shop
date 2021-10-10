@@ -1,0 +1,74 @@
+@charset "UTF-8";
+
+
+/*body{
+	
+	background-color:ghostwhite;
+}
+h1 {
+  color: White;
+  font-family: verdana;
+  font-size: 300%;
+  border:2px red;
+  
+}
+h2{
+	color : Gold;
+}*/
+
+p{
+	 text-align: center;
+	 font-size: 150%;
+}
+
+table {
+	width:50%;
+	border-spacing: 5px;
+}
+table, th, td {
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 10px;
+  text-align: center;
+}
+
+#t01 {
+ 
+  background-color: DarkTurquoise;
+}
+
+#t02 {
+ 
+  background-color: LemmonChiffon;
+}
+
+#t01 th {
+  background-color:Blue;
+   font-size: 150%;
+   color: white;
+ 
+}
+
+#t02 th {
+  background-color: LightGreen;
+   font-size: 125%;
+  color: black;
+}
+
+input[type=submit]{
+  background-color: MediumSlateBlue;
+  border:2px;
+  color: white;
+  padding: 10px 15px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+form{
+	text-color: white;
+}
+
+
